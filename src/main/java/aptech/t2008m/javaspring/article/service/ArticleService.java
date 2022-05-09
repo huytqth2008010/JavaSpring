@@ -2,8 +2,6 @@ package aptech.t2008m.javaspring.article.service;
 
 import aptech.t2008m.javaspring.article.entity.Article;
 import aptech.t2008m.javaspring.article.model.ArticleRepository;
-import aptech.t2008m.javaspring.student.entity.Student;
-import aptech.t2008m.javaspring.student.model.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
